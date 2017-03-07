@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RetrofitDemo</string>
+    <string name="shared_element_transition_med_frag_iv">animatethisview</string>
+
+</resources>
